@@ -3,12 +3,21 @@ project:
   output-dir: docs
   
 website:
-  title: "manuelrojas.github.io"
-  navbar:
-    left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
+  title: "Manuel Rojas"
+ image: headshot.jpg
+about: 
+  template: trestles
+  image-shape: round
+  image-width: 23em
+  links:
+    - text: LinkedIn
+      href: https://co.linkedin.com/in/manuel-felipe-rojas-echeverri-25373545
+      href: https://twitter.com/Mazathoth
+    - text: GitHub
+      href: https://github.com/Mazathoth1
+    - text: Email
+      href: mxr1137@psu.edu
+---
 
 format:
   html:

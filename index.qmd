@@ -1,11 +1,8 @@
 ---
-title: "manuelrojas.github.io"
+title: "Manuel Rojas"
 ---
 
-This is a Quarto website.
+Hello
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
+```{}
 ```
