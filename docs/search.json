@@ -1,10 +1,38 @@
 [
   {
+    "objectID": "Teaching.html",
+    "href": "Teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "Universidad del Rosario\nTeaching Assistant\nMathematical Economics (Graduate), 2016.\nUniversidad del Rosario\nTeaching assistant.\nTheory of regulation and informality (Undergraduate), 2017.\nThe Pennsylvania State University\nGraduate Teaching assistant.\nIntermediate Microeconomics (Undergraduate), 2020.\nEnvironmental Economics (Undergraduate), 2020-2021.\nSports Economics (Undergraduate) 2022.\nEconomic Mergers (Undergraduate) 2023."
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Manuel Rojas",
     "section": "",
-    "text": "Hello"
+    "text": "I am Ph.D. candidate in the Department of Economics at the Pennsylvania State University and I am on the job market for the 2023-24 academic year.\nI am interested in exploring questions at the intersection of Industrial Organization and Public Economics. Currently, my research focuses on quantifying the effects of non-linear prices on welfare and competition, using both reduced form and structural methods."
+  },
+  {
+    "objectID": "index.html#welcome-to-my-website",
+    "href": "index.html#welcome-to-my-website",
+    "title": "Manuel Rojas",
+    "section": "",
+    "text": "I am Ph.D. candidate in the Department of Economics at the Pennsylvania State University and I am on the job market for the 2023-24 academic year.\nI am interested in exploring questions at the intersection of Industrial Organization and Public Economics. Currently, my research focuses on quantifying the effects of non-linear prices on welfare and competition, using both reduced form and structural methods."
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Manuel Rojas",
+    "section": "Education",
+    "text": "Education\n\nThe Pennsilvania State University | PhD in Economics (expected) | 2024\nUniversidad del Rosario de Colombia| Master in Economics | 2017\nUniversidad Nacional de Colombia B.S. in Economics | 2014"
+  },
+  {
+    "objectID": "index.html#research-interests",
+    "href": "index.html#research-interests",
+    "title": "Manuel Rojas",
+    "section": "Research interests",
+    "text": "Research interests\n\nIndustrial Organization.\nPublic Economics.\nApplied Microeconometrics."
   },
   {
     "objectID": "about.html",
@@ -12,5 +40,19 @@
     "title": "About",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "CV.html",
+    "href": "CV.html",
+    "title": "CV",
+    "section": "",
+    "text": "You can find my CV here."
+  },
+  {
+    "objectID": "Research.html",
+    "href": "Research.html",
+    "title": "Research",
+    "section": "",
+    "text": "Distributional Effects of a Non-Linear Price Scheme in Water Utilities:\nIn this paper, I study a non-linear price scheme on a necessity good and its implications, focusing on a case of study from a developing country. Specifically, this paper has two objectives: to provide reliable price and income elasticities for a necessity good (i.e., water consumption) when it has a non-linear price scheme and to evaluate the distributional effects of this kind of price scheme. The case of study is the city of Bogotá, Colombia. Bogotá presents a particularity: not all households face the same pricing scheme for water utilities. Some households face a linear price scheme, and others a non-linear one. In addition to this, in 2012, the city’s government introduced a policy that added more non-linearities to the price scheme for some specific groups of households. In order to study these types of price schemes and their implications, I built a novel data set merging the billing information of the households obtained from administrative data with the households’ socioeconomic characteristics obtained from survey data, accounting for periods before and after the introduction of the policy in 2012. I propose a reduce form analysis using a Changes in Changes model to evaluate the effects of this policy and, once I control by variables that proxy the households’ income, I find that the effects of the policy on water consumption are null. I then propose a structural model for water demand to rationalize the results from the reduced form and estimate the price elasticities and income elasticities of water consumption.\nIn contrast to the previous literature, the price elasticities I estimate in this paper are small, and the income elasticities are significant. With the structural model, I also conduct counterfactual exercises, changing the price schemes of the households to estimate the impact on the distribution of welfare of a non-linear price scheme. I conclude by proposing alternative price schemes that prove to improve the households’ welfare."
   }
 ]

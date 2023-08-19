@@ -16,7 +16,24 @@ about:
       href: mxr1137@psu.edu
 ---
 
-Hello
+## Welcome to my website!
 
-```{}
-```
+I am Ph.D. candidate in the [Department of Economics at the Pennsylvania State University](https://econ.la.psu.edu/) and I am on the job market for the 2023-24 academic year.
+
+I am interested in exploring questions at the intersection of Industrial Organization and Public Economics. Currently, my research focuses on quantifying the effects of non-linear prices on welfare and competition, using both reduced form and structural methods.
+
+## Education
+
+-   The Pennsilvania State University \| PhD in Economics (expected) \| 2024
+
+-   Universidad del Rosario de Colombia\| Master in Economics \| 2017
+
+-   Universidad Nacional de Colombia B.S. in Economics \| 2014
+
+## Research interests
+
+-   Industrial Organization.
+
+-   Public Economics.
+
+-   Applied Microeconometrics.
