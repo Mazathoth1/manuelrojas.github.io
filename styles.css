@@ -1,4 +1,6 @@
 /* css styles */
-.text-justify {
-    text-align: justify;
+```{css, echo = FALSE}
+.justify {
+  text-align: justify !important
 }
+```
