@@ -2,18 +2,6 @@
 title: "Teaching"
 ---
 
--   Universidad del Rosario
-
-    Teaching Assistant
-
-    Mathematical Economics (Graduate), 2016.
-
--   Universidad del Rosario
-
-    Teaching assistant.
-
-    Theory of regulation and informality (Undergraduate), 2017.
-
 -   The Pennsylvania State University
 
     Graduate Teaching assistant.
@@ -25,3 +13,15 @@ title: "Teaching"
     Sports Economics (Undergraduate) 2022.
 
     Economic Mergers (Undergraduate) 2023.
+
+-   Universidad del Rosario
+
+    Teaching assistant.
+
+    Theory of regulation and informality (Undergraduate), 2017.
+
+-   Universidad del Rosario
+
+    Teaching Assistant
+
+    Mathematical Economics (Graduate), 2016.
