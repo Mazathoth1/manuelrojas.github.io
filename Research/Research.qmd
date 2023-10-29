@@ -18,11 +18,21 @@ Nonlinear pricing schemes are the primary instruments that policymakers use to e
 ```
 
 ## Competitive Bundling and Switching Cost in Telecommunications Markets.
+```         
+```
 
 Work in progress.
+```         
+```
 
 # Other Papers
+```         
+```
 
 ## The Water Vital Minimum: Analyzing the Bogot ́a Free Water Policy.
+```         
+```
 
 Replication paper. With: Juan Miguel Gallego, Juan Daniel Oviedo and Carlos Sepulveda.
+```         
+```
