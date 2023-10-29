@@ -1,5 +1,13 @@
 ---
-title: "Research"
+layout: page
+title: Research
+execute:
+  freeze: true  # never re-render during project render
+engine: knitr 
+resources:
+  - "JMP_Draft_Rojas_Manuel.pdf"
+cv:
+  pdf: "JMP_Draft_Rojas_Manuel.pdf"
 ---
 
 # Working Papers
@@ -7,7 +15,7 @@ title: "Research"
 ```         
 ```
 
-### Distributional Effects of a Non-Linear Price Scheme in Public Utilities:
+### Distributional Effects of a Non-Linear Price Scheme in Public Utilities. (Please find the latest version here)
 
 ```         
 ```
