@@ -6,7 +6,7 @@ title: Research
 
 ### Distributional Effects of a Non-Linear Price Scheme in Public Utilities.
 
-\<a href="https://mazathoth1.github.io/manuelrojas.github.io//Research/JMP_Draft_Rojas_Manuel.pdf" target="\_blank"\>Latest Version\</a\>\<br\>
+[Latest Version](https://mazathoth1.github.io/manuelrojas.github.io//Research/JMP_Draft_Rojas_Manuel.pdf)
 
 Nonlinear pricing schemes are the primary instruments that policymakers use to ensure access to public utilities for low-income households while penalizing high-income households for overconsumption. In this paper, I evaluate the effectiveness of these pricing schemes and introduce a novel methodology to analyze their impact on the distribution of consumption and welfare in public utilities, with a specific focus on the case of water utilities in Bogotá, Colombia. To achieve this, I employ a combination of reduced-form and structural model techniques, leveraging Bogotá's unique context, where households have historically encountered diverse pricing schemes, including the introduction of additional nonlinear elements in the pricing scheme through a 2012 policy change. Notably, the results reveal that the nonlinear pricing scheme exhibits regressive characteristics, benefiting wealthier households with higher consumption levels and more significant welfare gains. Furthermore, the evidence suggests that income effects, driven by changes in the virtual incomes of households, are the primary driving force behind these outcomes. These findings underscore the necessity for an alternative approach to achieving more significant equity in the distribution of benefits within public utilities.
 
