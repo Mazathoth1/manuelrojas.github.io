@@ -3,14 +3,15 @@ project:
   output-dir: docs
   
 website:
-  title: "Manuel Rojas"
+  title: "Manuel Felipe Rojas Echeverri"
   navbar:
     left:
-      - href: index.qmd
-        text: Home
-      - CV.qmd  
-      - Research.qmd
-      - Teaching.qmd
+      - text: "Research"
+        href: Research/Research.qmd
+      - text: "CV"
+        href: CV/CV.qmd
+      - text: "Teaching"
+        href: Teaching/Teaching.qmd
 
 format:
   html:

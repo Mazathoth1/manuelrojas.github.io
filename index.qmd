@@ -13,7 +13,7 @@ about:
     - text: GitHub
       href: https://github.com/Mazathoth1
     - text: Email
-      href: mxr1137@psu.edu
+      href: mailto:mxr1137@psu.edu
 ---
 
 ## Welcome to my website!
