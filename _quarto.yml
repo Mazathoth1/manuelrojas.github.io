@@ -4,7 +4,6 @@ project:
   
 website:
   google-analytics: "G-VQ1QYPQYP8"
-  cookie-consent: true
   title: "Manuel Felipe Rojas Echeverri"
   navbar:
     left:
