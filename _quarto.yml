@@ -3,6 +3,8 @@ project:
   output-dir: docs
   
 website:
+  google-analytics: "G-VQ1QYPQYP8"
+  cookie-consent: true
   title: "Manuel Felipe Rojas Echeverri"
   navbar:
     left:
@@ -12,7 +14,6 @@ website:
         href: CV/CV.qmd
       - text: "Teaching"
         href: Teaching/Teaching.qmd
-    google-analytics: "G-VQ1QYPQYP8"
 
 format:
   html:
