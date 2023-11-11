@@ -22,7 +22,7 @@ I am Ph.D. candidate in the [Department of Economics at the Pennsylvania State U
 
 I am interested in exploring questions at the intersection of Industrial Organization and Public Economics. Currently, my research focuses on quantifying the effects of non-linear prices on welfare and competition, using both reduced form and structural methods.
 
-Please find my CV [here](https://mazathoth1.github.io/manuelrojas.github.io//CV/cv_Rojas_Manuel.pdf) and the latest version of my Job Market Paper in this [link](https://mazathoth1.github.io/manuelrojas.github.io//Research/JMP_Rojas_Manuel_11102023.pdf).
+Please find my CV [here](https://mazathoth1.github.io/manuelrojas.github.io//CV/cv_Rojas_Manuel.pdf) and the latest version of my Job Market Paper in this [link](https://github.com/Mazathoth1/manuelrojas.github.io/raw/ea7d37f816101edaa25ce903db37dee751bf9b3f/Research/JMP_Rojas_Manuel_11102023.pdf).
 
 ## Research interests
 
