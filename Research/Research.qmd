@@ -12,7 +12,7 @@ Nonlinear pricing schemes are the primary instruments that policymakers use to e
 
 # Work in Progress
 
-### Competitive Bundling and Switching Cost in Telecommunications Markets.
+### Competitive Bundling and Switching Costs.
 
 # Other Papers
 
