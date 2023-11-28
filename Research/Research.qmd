@@ -14,6 +14,9 @@ Nonlinear pricing schemes are the primary instruments that policymakers use to e
 
 ### Competitive Bundling and Switching Costs.
 
+In this project, I examine the implications of second-degree price discrimination on competition and switching costs. I estimate a demand model for bundles by employing a random utility discrete choice model. The challenge lies in the fact that firms use price discrimination to tailor their offerings to different market segments and employ bundling
+as a competitive strategy. To address this challenge, I leverage the variation in my data, which covers multiple locations and socioeconomic variables, enabling a comprehensive analysis. This research offers insights into a complex issue, addresses theoretical gaps, and evaluates various policy scenarios.
+
 ### The Water Vital Minimum: Analyzing the Bogota Free Water Policy.
 
 Replication paper. With: Juan Miguel Gallego, Juan Daniel Oviedo and Carlos Sepulveda.
