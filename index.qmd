@@ -18,7 +18,7 @@ about:
 
 ## Welcome to my website!
 
-I am Ph.D. candidate in the [Department of Economics at the Pennsylvania State University](https://econ.la.psu.edu/) and I am on the job market for the 2023-24 academic year.
+I am Ph.D. in the [Department of Economics at the Pennsylvania State University](https://econ.la.psu.edu/).
 
 I am interested in exploring questions at the intersection of Applied Econometrics and Public Economics. Currently, my research focuses on quantifying the effects of non-linear prices on welfare, using both reduced form and structural methods.
 
