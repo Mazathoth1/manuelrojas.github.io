@@ -18,7 +18,7 @@ about:
 
 ## Welcome to my website!
 
-I am Ph.D. in the [Department of Economics at the Pennsylvania State University](https://econ.la.psu.edu/).
+I hold a Ph.D. in economics from the [Department of Economics at the Pennsylvania State University](https://econ.la.psu.edu/).
 
 I am interested in exploring questions at the intersection of Applied Econometrics and Public Economics. Currently, my research focuses on quantifying the effects of non-linear prices on welfare, using both reduced form and structural methods.
 
