@@ -22,8 +22,6 @@ I hold a Ph.D in economics from the [Department of Economics at the Pennsylvania
 
 I am interested in exploring questions at the intersection of Applied Econometrics, Public Economics and Industrial Organization. Currently, my research focuses on quantifying the effects of non-linear prices on welfare, using both reduced form and structural methods.
 
-Please find my CV [here](https://raw.githubusercontent.com/Mazathoth1/manuelrojas.github.io/e945bf9b44b007371a713dfdb5ade28a8d26e3e7/CV/cv_Rojas_Manuel.pdf).
-
 Contact email: manuel.rojasecheverri\@gmail.com
 
 ## Research interests
