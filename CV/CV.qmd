@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Curriculum vitae
-excerpt: CV
+excerpt: My current CV
 execute:
   freeze: false  # never re-render during project render
 engine: knitr 
