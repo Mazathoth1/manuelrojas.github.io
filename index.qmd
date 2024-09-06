@@ -13,7 +13,7 @@ about:
     - text: GitHub
       href: https://github.com/Mazathoth1
     - text: Email
-      href: mailto:mxr1137@psu.edu
+      href: mailto:manue.rojasecheverri@gmail.com
 ---
 
 ## Welcome to my website!
