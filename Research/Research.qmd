@@ -17,3 +17,13 @@ Nonlinear pricing schemes are the primary instruments that policymakers use to e
 With: Juan Miguel Gallego, Juan Daniel Oviedo and Carlos Sepulveda.
 
 Szabo (2015) analyzes the effects of a free water allowance in South Africa equal to the World Health Organization's recommended minimum. The author demonstrates that the free allowance acts as a lump-sum subsidy without significantly affecting water consumption. Furthermore, it is shown that it is possible to reallocate the current subsidy to form an optimal tariff without needing a free allowance. In this study, we revisit Szabo's analysis using data from Bogotá, Colombia, where a similar policy was implemented. First, employing the methodology proposed by the author, we successfully replicate the original results on consumption, revealing a minimal impact. Second, we reexamine the calculation of the price elasticities for water, identifying lower price elasticities. Third, we replicate the exercise of creating an optimal tariff that increases social welfare.
+
+# Work in Progress
+
+### Social Norms and Caregiving Women: An Intervention to Promote Formal Labor Participation in Bogotá
+
+With: María del Pilar López-Uribe and Yuliet Verbel
+
+### Fintech impact on Small Firms
+
+### Child Penalty and the Informal Economy in Bogotá
