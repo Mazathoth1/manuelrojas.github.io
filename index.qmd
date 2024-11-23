@@ -20,7 +20,7 @@ about:
 
 I hold a Ph.D in economics from the [Department of Economics at the Pennsylvania State University](https://econ.la.psu.edu/).
 
-I am interested in exploring questions at the intersection of Applied Econometrics, Public Economics and Industrial Organization. Currently, my research focuses on quantifying the effects of non-linear prices on welfare, using both reduced form and structural methods.
+I am interested in exploring questions in Applied Microeconomics, particularly within Public Economics, Labor Economics, and Industrial Organization. My current research focuses on quantifying the welfare effects of non-linear pricing, analyzing barriers to formal labor market access for vulnerable populations, and studying policies to promote the growth of small firms.
 
 Contact email: manuel.rojasecheverri\@gmail.com
 
@@ -28,8 +28,8 @@ Contact email: manuel.rojasecheverri\@gmail.com
 
 -   Public Economics.
 
+-   Labor Economics.
+
 -   Industrial Organization
 
 -   Applied Microeconomics.
-
--   Econometrics
