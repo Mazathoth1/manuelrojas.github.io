@@ -6,13 +6,13 @@ title: Research
 
 ### Distributional Effects of a Non-Linear Price Scheme in Public Utilities. (Job Market Paper)
 
-[Latest Version](https://github.com/Mazathoth1/manuelrojas.github.io/raw/6f58e8a9c49b763c6c5f0edde78cb57235f0e1aa/Research/Distributional_Effects_Manuel_Rojas.pdf)
+[Latest Version](https://github.com/Mazathoth1/manuelrojas.github.io/raw/5236afa3433a43a4d4bd14b927ab62f390f406ef/Research/Distributional_Effects_Manuel_Rojas.pdf)
 
 Nonlinear pricing schemes are the primary instruments that policymakers use to ensure access to public utilities for low-income households while penalizing high-income households for overconsumption. In this paper, I evaluate the effectiveness of these pricing schemes and introduce a novel methodology to analyze their impact on the distribution of consumption and welfare in public utilities, with a specific focus on the case of water utilities in Bogotá, Colombia. To achieve this, I employ a combination of reduced-form and structural model techniques, leveraging Bogotá's unique context, where households have historically encountered diverse pricing schemes, including the introduction of additional nonlinear elements in the pricing scheme through a 2012 policy change. Notably, the results reveal that the nonlinear pricing scheme exhibits regressive characteristics, benefiting wealthier households with higher consumption levels and more significant welfare gains. Furthermore, the evidence suggests that income effects, driven by changes in the virtual incomes of households, are the primary driving force behind these outcomes. These findings underscore the necessity for an alternative approach to achieving more significant equity in the distribution of benefits within public utilities.
 
 ### The Water Vital Minimum: Analyzing the Bogotá Free Water Policy.
 
-[Latest Version](https://github.com/Mazathoth1/manuelrojas.github.io/raw/0645924c9846f03a0c0b75d81bf0d4e96dd5b459/Research/Vital_Minimum.pdf)
+[Latest Version](https://github.com/Mazathoth1/manuelrojas.github.io/raw/5236afa3433a43a4d4bd14b927ab62f390f406ef/Research/Vital_Minimum.pdf)
 
 With: Juan Miguel Gallego, Juan Daniel Oviedo and Carlos Sepulveda.
 
