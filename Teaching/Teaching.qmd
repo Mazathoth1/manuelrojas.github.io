@@ -2,6 +2,14 @@
 title: "Teaching"
 ---
 
+-   Universidad del Rosario
+
+    Lecturer.
+
+    -   Mathematical Economics (Graduate), 2016.
+
+    -   Impact Evaluation (Graduate), 2025.
+
 -   The Pennsylvania State University
 
     Graduate Teaching assistant.
@@ -13,15 +21,3 @@ title: "Teaching"
     -   Environmental Economics (Undergraduate), 2020-2022.
 
     -   Intermediate Microeconomics (Undergraduate), 2020.
-
--   Universidad del Rosario
-
-    Teaching assistant.
-
-    -   Theory of regulation and informality (Undergraduate), 2017.
-
-    Lecturer.
-
-    -   Mathematical Economics (Graduate), 2016.
-
-    -   Impact Evaluation (Graduate), 2025.
