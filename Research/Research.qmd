@@ -12,7 +12,7 @@ Nonlinear pricing schemes are the primary instruments that policymakers use to e
 
 ### The Water Vital Minimum: Analyzing the Bogotá Free Water Policy.
 
-[Latest Version](https://github.com/Mazathoth1/manuelrojas.github.io/raw/5236afa3433a43a4d4bd14b927ab62f390f406ef/Research/Vital_Minimum.pdf)
+[Latest Version](https://github.com/Mazathoth1/manuelrojas.github.io/raw/819647da1ac8fa8f38e8a7f62bf96ecbb5a307bc/Research/Vital_Minimum.pdf)
 
 With: Juan Miguel Gallego, Juan Daniel Oviedo and Carlos Sepulveda.
 
