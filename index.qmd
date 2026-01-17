@@ -20,16 +20,16 @@ about:
 
 I hold a Ph.D in economics from the [Department of Economics at the Pennsylvania State University](https://econ.la.psu.edu/).
 
-I am interested in exploring questions in Applied Microeconomics, particularly within Public Economics, Labor Economics, and Industrial Organization. My current research focuses on quantifying the welfare effects of non-linear pricing, analyzing barriers to formal labor market access for vulnerable populations, and studying policies to promote the growth of small firms.
+I am interested in exploring questions in Applied Microeconomics, particularly within Industrial Organization and Public Economics. My current research focuses on quantifying the welfare effects of non-linear pricing, studying policies to promote the growth of small firms, and analyzing barriers to formal labor market access for vulnerable populations.
+
+Here you can find my [CV](https://mazathoth1.github.io/manuelrojas.github.io/CV/CV.html). 
 
 Contact email: manuel.rojasecheverri\@gmail.com
 
 ## Research interests
 
--   Public Economics.
-
--   Labor Economics.
-
 -   Industrial Organization
+
+-   Public Economics.
 
 -   Applied Microeconomics.
